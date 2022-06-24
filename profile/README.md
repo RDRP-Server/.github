@@ -1,5 +1,5 @@
 
-<h1 align="center"> [ Insert RedM Server Name Here ] </h1>
+<h1 align="center"> RDRP | RedM Server </h1>
 
 > This is a WIP server
 
